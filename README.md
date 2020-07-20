@@ -3,4 +3,9 @@ A demo project that aims to find the location of meteors using NASA data and imp
 ## Running
 This project requires Python 3 and the requests package
 
-`python find-meteor.py`
+First,install pipenv. Then :
+
+```
+pipenv install
+pipenv run `python find-meteor.py`
+```
